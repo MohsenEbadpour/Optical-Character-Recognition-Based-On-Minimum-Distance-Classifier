@@ -11,13 +11,10 @@ This problem is related to a *Statistical Pattern Recognition* course taught by 
 The problem involves use given dataset, which contains 3 sets. The goal is to generate prototypes for each class of optical character for classification purposes.
 
 The problem is divided into three parts. Each part has different optical characters.  
-**Sample for prototype**
 
 ![Sample for prototype](/Sample-for-prototype.png)
 
-**Sample for Error rate**
 ![Sample for prototype](/Error.png)
-
 
 ## Repository Contents
 
